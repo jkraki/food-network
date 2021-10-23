@@ -1,0 +1,150 @@
+#header{
+    display: inline-flex;
+}
+.header-part{
+    padding: 50%;
+    padding-left: 5%;
+}
+.text-color{
+    color: orange;
+}
+.link-color{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    border-radius: 10px;
+}
+h1{
+    font-size: 30px;
+}
+.header-part img{
+    width: 400px;
+}
+.about-text{
+    width: 350px;
+}
+#about-me{
+    margin-top: 80px;
+    float: left;
+    margin: 50px 30px;
+    background-position: center;
+}
+#about{
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%;
+}
+.about-part{
+    width: 50%;
+    padding: 3%;
+}
+h2{
+    font-size: 70px;
+}
+#recipie-part h1{
+    margin-left: 12px;
+    text-align: center;
+}
+#recipie-part p{
+    margin-left: 12px;
+    text-align: center;
+}
+#recipie-area{
+    font-size: 100px;
+}
+#box{
+    display: inline-flex;
+}
+.box-part1{
+    box-shadow: 5px 15px 40px 10px rgba(0,0,0,0.18);
+    border-radius: 25px;
+    width: 250px;
+    margin-right: 50px;
+    margin-left: 90px;
+    height: 400px;
+}
+.box-part1 img{
+    width: 200px;
+    padding: 15px 25px;
+}
+.box-part h2{
+    padding: 0px 2px;
+}
+.box-part1 p{
+    padding: 0px 2px;
+}
+.box-part2{
+    box-shadow: 5px 15px 40px 10px rgba(0,0,0,0.18);
+    border-radius: 25px;
+    width: 250px;
+    margin-right: 50px;
+    height: 400px;
+    /*margin-left:90px;*/
+}
+.box-part2 img{
+    width: 200px;
+    padding: 15px 25px;
+}
+.box-part3{
+    box-shadow: 7px 17px 50px 17px rgba(0,0,0,0.18);
+    border-radius: 25px;
+    width: 250px;
+    /*margin-left:40px*/
+    height: 400px;
+    margin-left: 10px;
+    margin-right: 50px;
+
+}
+.box-part3 img{
+    width: 200px;
+    padding: 15px 25px;
+}
+.box-part3 h2{
+    padding: 0px 2px;
+}
+.box-part p{
+    padding: 0px 2px;
+}
+.total-box{
+    display: flex;
+    width: 70%;
+    background-color: #fff;
+    margin-left: 5%;
+    border-radius: 50px;
+    margin-top: 60px;
+    height: 180px;
+    box-shadow: 7px 17px 50px 17px rgba(0,0,0,0.18);
+    margin-bottom: 160px;
+}
+.total-part{
+    padding: 0px 100px;
+}
+.total-part h1{
+    font-weight: center;
+    font-size: 40px;
+    margin-top: 40px;
+}
+.total-part p{
+    font-size: 11px;
+    margin-top: 30px;
+}
+#footer{
+    height: 230px;
+    background-color: #040611;
+    text-align: center;
+}
+.footer-part{
+    padding: 30px 0px;
+}
+.f-color{
+    color: orange;
+}
+.f-text{
+    color: rgb(161,153,153);
+    font-size: 12px;
+}
+#footer p{
+    color: rgb(161,153,153);
+    font-size: 12px;
+}
